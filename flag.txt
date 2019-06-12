@@ -1,1 +1,0 @@
-flag{git_leaks_r_danger0us}
